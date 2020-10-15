@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	<string name="app_name">About Box</string>
+	<string name="app_namer">link</string>
+	<string name="sett"> https://m.facebook.com/settings/security/password/</string>
+	<string name="about">https://m.facebook.com/new_sec_settings/app_passwords/</string>
+	<string name="abcd"> https://www.facebook.com/576493995834390/posts/1642021209281658/</string>
+</resources>
